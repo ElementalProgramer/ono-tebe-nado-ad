@@ -1,1 +1,1 @@
-https://github.com/ElementalProgramer/first-project
+https://github.com/ElementalProgramer/ono-tebe-nado
